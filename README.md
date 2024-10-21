@@ -19,3 +19,7 @@ O objetivo deste projeto é implementar um sistema de gestão de projetos ágeis
 | 6    | ALTA       | Como Membro da Equipe, quero poder comunicar-me com outros membros do projeto para colaborar de forma eficiente.                                             | 3      | RF6                   | Sistema de chat integrado ao projeto, com notificações em tempo real.                                                                                                                                  |
 | 7    | MÉDIA      | Como Administrador, quero gerar relatórios personalizados para analisar o desempenho do projeto em diferentes aspectos.                                       | 4      | RF7                   | Sistema de geração de relatórios personalizados com base em métricas de desempenho e progresso do projeto.                                                                                              |
 | 8    | ALTA       | Como Membro da Equipe, quero que o sistema seja rápido e responsivo para melhorar a experiência de uso.                                                        | 4      | RF8                   | Otimização de código para melhorar o tempo de resposta do sistema.          
+
+
+## Figma
+https://www.figma.com/proto/NM3iej424RuKbOdBVbC96v/SCRUM?node-id=0-1&t=0mksiEWyNl0BgG0X-1
